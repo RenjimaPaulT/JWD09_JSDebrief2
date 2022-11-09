@@ -29,7 +29,7 @@ Some additional information that you will require:
 The first four hundred feet are free.  
 For a distance between 400 and 2000 feet, the price is 2cents per foot (not including the  
 first 400 feet, which are free!)  
-Fares between 2000 feet and 2500 feet are charged a flat fare of $  
+Fares between 2000 feet and 2500 feet are charged a flat fare of $25  
 The company does not allow fares that are over 2500 feet.  
   
 Happy coding!
