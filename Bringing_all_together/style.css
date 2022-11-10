@@ -1,0 +1,22 @@
+html{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+}
+
+#body_container{
+    height: 250px;
+    width: 250px;
+    background-color: black;
+}
+
+#box_container{
+    width: 80%;
+    height: 80%;
+    background-color: aliceblue;
+}
